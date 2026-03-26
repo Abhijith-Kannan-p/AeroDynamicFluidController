@@ -1,0 +1,4 @@
+taichi
+opencv-python
+mediapipe
+numpy
